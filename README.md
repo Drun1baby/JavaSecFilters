@@ -15,6 +15,6 @@
 
 
 ```none
-select|sleep|extractvalue|flag|union|update|and|or|delete|insert|truncate|char|into|substr|ascii|declare|exec|count|master|into|drop|execute|table|\\\\$|\'|\"|--|#|\\0|into|alert|img|prompt|set/is",$s)||strlen($s)>1000
+select|sleep|extractvalue|updatexml|floor|sleep|table|flag|union|update|and|or|delete|insert|truncate|char|substr|ascii|declare|exec|count|master|into|drop|execute|table|\\\\$|\'|\"|--|#|\\0|into|alert|img|prompt|set/is",$s)||strlen($s)>1000
 ```
 
