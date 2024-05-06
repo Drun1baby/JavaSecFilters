@@ -1,5 +1,5 @@
 # JavaSecFilters
-> 为了准备 AWD，写了个 Filter 的集合，希望能够帮助到各位师傅们
+> 为了准备 AWD/AWDP，写了个 Filter 的集合，希望能够帮助到各位师傅们
 
 其中包括以下内容
 
@@ -18,3 +18,6 @@
 select|sleep|extractvalue|updatexml|floor|sleep|table|flag|union|update|and|or|delete|insert|truncate|char|substr|ascii|declare|exec|count|master|into|drop|execute|table|\\\\$|\'|\"|--|#|\\0|into|alert|img|prompt|set/is",$s)||strlen($s)>1000
 ```
 
+# 更新于 2024/5/6
+
+更新了 php 部分的 filter
